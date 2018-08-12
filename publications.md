@@ -11,7 +11,7 @@ layout: default
 
 **“Exploring User Mental Models of End-to-End Encrypted Communication Tools.”** Ruba Abu-Salma, Elissa Redmiles, Blase Ur, Miranda Wei. _FOCI ’18_, Aug. 2018. [paper forthcoming]
 
-**“The Password Doesn’t Fall Far: How Services Influence Password Choice.”** Miranda Wei, Maximilian Golla, Blase Ur. _WAY ’18_, Aug. 2018. [paper and slides forthcoming]
+**“The Password Doesn’t Fall Far: How Services Influence Password Choice.”** Miranda Wei, Maximilian Golla, Blase Ur. _WAY ’18_, Aug. 2018. [[paper](https://wayworkshop.org/papers/2018/way2018-wei.pdf), [slides](/assets/way18-slides.pdf)]
 <!-- [[paper](./assets/way18.pdf), [slides](./assets/way18-slides.pdf)] -->
 
 **“Your Secrets are Safe: How Browsers’ Explanations Impact Misconceptions About Private Browsing Mode.”** Yuxi Wu, Panya Gupta, Miranda Wei, Yasemin Acar, Sascha Fahl, Blase Ur. _WWW ’18_, Apr. 2018. [[paper](/assets/www18.pdf), [slides](/assets/www18-slides.pdf)]
