@@ -9,7 +9,7 @@ layout: default
 
 **"What was that site doing with my Facebook password?” Designing Password-Reuse Notifications.** Maximilian Golla, Miranda Wei, Juliette Hainline, Lydia Filipe, Markus Dürmuth, Blase Ur. _CCS ’18_, Oct. 2018. [paper forthcoming]
 
-**“Exploring User Mental Models of End-to-End Encrypted Communication Tools.”** Ruba Abu-Salma, Elissa Redmiles, Blase Ur, Miranda Wei. _FOCI ’18_, Aug. 2018. [paper forthcoming]
+**“Exploring User Mental Models of End-to-End Encrypted Communication Tools.”** Ruba Abu-Salma, Elissa Redmiles, Blase Ur, Miranda Wei. _FOCI ’18_, Aug. 2018. [[paper](https://www.usenix.org/system/files/conference/foci18/foci18-paper-abu-salma.pdf)]
 
 **“The Password Doesn’t Fall Far: How Services Influence Password Choice.”** Miranda Wei, Maximilian Golla, Blase Ur. _WAY ’18_, Aug. 2018. [[paper](https://wayworkshop.org/papers/2018/way2018-wei.pdf), [slides](/assets/way18-slides.pdf)]
 <!-- [[paper](./assets/way18.pdf), [slides](./assets/way18-slides.pdf)] -->
