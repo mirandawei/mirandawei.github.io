@@ -11,8 +11,6 @@ I'm a recent grad from the University of Chicago, and currently working as a res
 
 I was born and raised in Chicago (unless you're from the city, in which case I was born and raised in the suburbs). I studied political science and computer science during my undergraduate degree, and graduated in June 2017.
 
-My top (most relatable) loves are cooking, eating, traveling. Also, "all this has happened before, and all this will happen again."
-
 ### Connect with me
 
-I'm very available via email (mirandaaa.wei@gmail.com or weim@uchicago.edu), moderately active on [Instagram](https://www.instagram.com/mirandawei/), and exist on [Twitter](https://twitter.com/_weimf).
+I'm very available via email (mirandaaa.wei@gmail.com or weim@uchicago.edu) and moderately active on [Instagram](https://www.instagram.com/mirandawei/) and [Twitter](https://twitter.com/_weimf).
