@@ -27,4 +27,4 @@ layout: default
 
 # Talks
 
-**"Everything but the User: Reducing Password Reuse" _PasswordsCon_, Nov. 2018. [[slides(/assets/passwords18-slides.pdf)][video()]]
+**"Everything but the User: Reducing Password Reuse"** _PasswordsCon_, Nov. 2018. [[slides(/assets/passwords18-slides.pdf)][video()]]
