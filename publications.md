@@ -7,13 +7,17 @@ layout: default
 
 ### Computer Science
 
-**Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing.** Ben Weinshel, Miranda Wei, Mainack Mondal, Euirim Choi, Shawn Shan, Claire Dolin, Michelle L. Mazurek, Blase Ur. ACM Computer and Communications Security (_CCS_), Nov. 2019. [paper forthcoming]
+**What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data.** Miranda Wei and Madison Stamos and Sophie Veys and Nathan Reitinger and Justin Goodman and Margot Herman and Dorota Filipczuk and Ben Weinshel and Michelle L. Mazurek and Blase Ur. USENIX Security Symposium (_CHI_), Aug. 2020. [[paper](/assets/usenix20.pdf), [slides](/assets/usenix20-slides.pdf)]
+
+**Taking Data Out of Context to Hyper-Personalize Ads: Crowdworkers' Privacy Perceptions and Decisions to Disclose Private Information.** Julia Hanson and Miranda Wei and Sophie Veys and Matthew Kugler and Lior Strahilevitz and Blase Ur. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), Apr. 2020. [[paper](/assets/chi20.pdf)]
+
+**Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing.** Ben Weinshel, Miranda Wei, Mainack Mondal, Euirim Choi, Shawn Shan, Claire Dolin, Michelle L. Mazurek, Blase Ur. ACM Computer and Communications Security (_CCS_), Nov. 2019. [[paper](/assets/ccs19.pdf), [slides](/assets/ccs19-slides.pdf)]
 
 **"What was that site doing with my Facebook password?” Designing Password-Reuse Notifications.** Maximilian Golla, Miranda Wei, Juliette Hainline, Lydia Filipe, Markus Dürmuth, Blase Ur. ACM Computer and Communications Security (_CCS_), Oct. 2018. [[paper](/assets/ccs18.pdf), [slides](/assets/ccs18-slides.pdf)]
 
 **“Exploring User Mental Models of End-to-End Encrypted Communication Tools.”** Ruba Abu-Salma, Elissa Redmiles, Blase Ur, Miranda Wei. USENIX Workshop on Free and Open Communications on the Internet (_FOCI_), Aug. 2018. [[paper](https://www.usenix.org/system/files/conference/foci18/foci18-paper-abu-salma.pdf)]
 
-**“The Password Doesn’t Fall Far: How Services Influence Password Choice.”** Miranda Wei, Maximilian Golla, Blase Ur. Who Are You?! Adventures in Authentication Workshop (_WAY_), Aug. 2018. [[paper](https://wayworkshop.org/papers/2018/way2018-wei.pdf), [slides](/assets/way18-slides.pdf)]
+**“The Password Doesn’t Fall Far: How Services Influence Password Choice.”** Miranda Wei, Maximilian Golla, Blase Ur. Who Are You?! Adventures in Authentication Workshop (_WAY_), Aug. 2018. [[paper](/assets/way18.pdf), [slides](/assets/way18-slides.pdf)]
 
 **“Your Secrets are Safe: How Browsers’ Explanations Impact Misconceptions About Private Browsing Mode.”** Yuxi Wu, Panya Gupta, Miranda Wei, Yasemin Acar, Sascha Fahl, Blase Ur. TheWebConf (_WWW_), Apr. 2018. [[paper](/assets/www18.pdf), [slides](/assets/www18-slides.pdf)]
 

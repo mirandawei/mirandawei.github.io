@@ -13,6 +13,9 @@ Prior to starting my PhD, I worked with [Blase Ur](https://www.blaseur.com) at t
 
 I was born and raised in Chicago (unless you're from the city, in which case I was born and raised in the suburbs). I studied political science and computer science during my undergraduate degree, and graduated in June 2017.
 
+I now live in Seattle where I spend lots of time hiding from the rain with my two cats.
+
 ### Connect with me
 
-I'm available via email at weimf@cs.washington.edu and (moderately) active on [Twitter](https://twitter.com/_weimf) and [Instagram](https://www.instagram.com/mirandawei/).
+I'm available via email at weimf@cs.washington.edu and am somewhat active on [Twitter](https://twitter.com/_weimf).
+<!---and [Instagram](https://www.instagram.com/mirandawei/).--->
