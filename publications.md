@@ -11,7 +11,7 @@ layout: default
 [[paper](/assets/usenix20.pdf), [slides](/assets/usenix20-slides.pdf)]
 
 **Taking Data Out of Context to Hyper-Personalize Ads: Crowdworkers' Privacy Perceptions and Decisions to Disclose Private Information.** Julia Hanson\*, Miranda Wei\*, Sophie Veys, Matthew Kugler, Lior Strahilevitz, Blase Ur. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), Apr. 2020. \* This is a co-first authored publication. <br/>
-[[paper](/assets/chi20.pdf)]
+[[paper](/assets/chi20.pdf), [slides](/assets/chi20-slides.pdf)]
 
 **Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing.** Ben Weinshel, Miranda Wei, Mainack Mondal, Euirim Choi, Shawn Shan, Claire Dolin, Michelle L. Mazurek, Blase Ur. ACM Computer and Communications Security (_CCS_), Nov. 2019. <br/>
 [[paper](/assets/ccs19.pdf), [slides](/assets/ccs19-slides.pdf)]
