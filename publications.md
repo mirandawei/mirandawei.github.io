@@ -9,7 +9,7 @@ layout: default
 
 
 **Polls, Clickbait, and Commemorative $2 Bills: Problematic Political Advertising on News and Media Websites Around the 2020 U.S. Elections.** Eric Zeng, Miranda Wei, Theo Gregersen, Tadayoshi Kohno, and Franziska Roesner. ACM Internet Measurement Conference (IMC), Nov. 2021. <br/>
-[paper forthcoming]
+[[paper](/assets/imc21.pdf)]
 
 **What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data.** Miranda Wei, Madison Stamos, Sophie Veys, Nathan Reitinger, Justin Goodman, Margot Herman, Dorota Filipczuk, Ben Weinshel, Michelle L. Mazurek, Blase Ur. USENIX Security Symposium, Aug. 2020. <br/>
 [[paper](/assets/usenix20.pdf), [slides](/assets/usenix20-slides.pdf)]
