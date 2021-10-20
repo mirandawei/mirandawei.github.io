@@ -7,9 +7,11 @@ layout: default
 
 ### Computer Science
 
-
 **Polls, Clickbait, and Commemorative $2 Bills: Problematic Political Advertising on News and Media Websites Around the 2020 U.S. Elections.** Eric Zeng, Miranda Wei, Theo Gregersen, Tadayoshi Kohno, and Franziska Roesner. ACM Internet Measurement Conference (IMC), Nov. 2021. <br/>
 [[paper](/assets/imc21.pdf)]
+
+**On the Limited Impact of Visualizing Encryption: Perceptions of E2E Messaging Security** Christian Stransky, Dominik Wermke, Johanna Schrader, Nicolas Huaman, Yasemin Acar, Anna Lena Fehlhaber, Miranda Wei, Blase Ur, Sascha Fahl. Symposium on Usable Privacy and Security (SOUPS), Online, August 2021. <br/>
+[[paper](https://www.usenix.org/system/files/soups2021-stransky.pdf)]
 
 **What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data.** Miranda Wei, Madison Stamos, Sophie Veys, Nathan Reitinger, Justin Goodman, Margot Herman, Dorota Filipczuk, Ben Weinshel, Michelle L. Mazurek, Blase Ur. USENIX Security Symposium, Aug. 2020. <br/>
 [[paper](/assets/usenix20.pdf), [slides](/assets/usenix20-slides.pdf)]
