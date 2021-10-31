@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![headshot]({{ "/assets/headshot.jpg" | absolute_url }})
+![headshot]({{ "/assets/headshot.jpg" | absolute_url }} "woman with long brown hair grinning at the camera")
 
 
 Hi there! I'm Miranda (she/her).
