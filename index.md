@@ -5,7 +5,9 @@ layout: default
 ![headshot]({{ "/assets/headshot.jpg" | absolute_url }})
 
 
-Hi there! I'm Miranda.
+Hi there! I'm Miranda (she/her).
+
+### About me
 
 I'm a PhD student at the University of Washington; [Franzi Roesner](https://www.franziroesner.com) and [Yoshi Kohno](https://homes.cs.washington.edu/~yoshi/index.html) are my co-advisors. [My research](./publications) focuses on the usability of computer security and privacy. I'm especially interested in how average users imagine, interact with, and are influenced by technology. Generally, I love asking people about what they love, what they hate, and anything else they feel strongly about.
 
