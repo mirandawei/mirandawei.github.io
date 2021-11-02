@@ -8,7 +8,8 @@ layout: default
 ### Computer Science
 
 **Polls, Clickbait, and Commemorative $2 Bills: Problematic Political Advertising on News and Media Websites Around the 2020 U.S. Elections.** Eric Zeng, Miranda Wei, Theo Gregersen, Tadayoshi Kohno, and Franziska Roesner. ACM Internet Measurement Conference (IMC), Nov. 2021. <br/>
-[[paper](/assets/imc21.pdf)]
+[[paper](/assets/imc21.pdf)] </br>
+:star: Runner-Up for Best Paper Award.
 
 **On the Limited Impact of Visualizing Encryption: Perceptions of E2E Messaging Security** Christian Stransky, Dominik Wermke, Johanna Schrader, Nicolas Huaman, Yasemin Acar, Anna Lena Fehlhaber, Miranda Wei, Blase Ur, Sascha Fahl. Symposium on Usable Privacy and Security (SOUPS), Online, August 2021. <br/>
 [[paper](https://www.usenix.org/system/files/soups2021-stransky.pdf)]
@@ -17,7 +18,8 @@ layout: default
 [[paper](/assets/usenix20.pdf), [slides](/assets/usenix20-slides.pdf)]
 
 **Taking Data Out of Context to Hyper-Personalize Ads: Crowdworkers' Privacy Perceptions and Decisions to Disclose Private Information.** Julia Hanson\*, Miranda Wei\*, Sophie Veys, Matthew Kugler, Lior Strahilevitz, Blase Ur. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), Apr. 2020. \* This is a co-first authored publication. <br/>
-[[paper](/assets/chi20.pdf), [slides](/assets/chi20-slides.pdf)]
+[[paper](/assets/chi20.pdf), [slides](/assets/chi20-slides.pdf)] <br/>
+:star: Honorable Mention for Best Paper Award.
 
 **Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing.** Ben Weinshel, Miranda Wei, Mainack Mondal, Euirim Choi, Shawn Shan, Claire Dolin, Michelle L. Mazurek, Blase Ur. ACM Computer and Communications Security (_CCS_), Nov. 2019. <br/>
 [[paper](/assets/ccs19.pdf), [slides](/assets/ccs19-slides.pdf)]
