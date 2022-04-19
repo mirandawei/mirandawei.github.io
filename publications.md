@@ -11,7 +11,7 @@ layout: default
 [[paper](/assets/chi22.pdf)]
 
 **Polls, Clickbait, and Commemorative $2 Bills: Problematic Political Advertising on News and Media Websites Around the 2020 U.S. Elections.** Eric Zeng, Miranda Wei, Theo Gregersen, Tadayoshi Kohno, and Franziska Roesner. ACM Internet Measurement Conference (_IMC_), Nov. 2021. <br/>
-[[paper](/assets/imc21.pdf)] <br/>
+[[paper](/assets/imc21.pdf), [project page](https://badads.cs.washington.edu/political.html), [talk](https://www.youtube.com/watch?v=6IwV1F9E_dw)] <br/>
 :star: Runner-Up for Best Paper Award.
 
 **On the Limited Impact of Visualizing Encryption: Perceptions of E2E Messaging Security** Christian Stransky, Dominik Wermke, Johanna Schrader, Nicolas Huaman, Yasemin Acar, Anna Lena Fehlhaber, Miranda Wei, Blase Ur, Sascha Fahl. Symposium on Usable Privacy and Security (_SOUPS_), Online, August 2021. <br/>
