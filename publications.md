@@ -8,6 +8,7 @@ layout: default
 ### Computer Science
 
 **Skilled or Gullible? Investigating Gender Stereotypes Related to Computer Security and Privacy.** Miranda Wei, Pardis Emami-Naeini, Franziska Roesner, Tadayoshi Kohno. IEEE Symposium on Security and Privacy (_S&P_), San Francisco, May 2023. <br/>
+[[paper (preprint)](/assets/sp23.pdf)]
 
 **Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships.** Miranda Wei, Eric Zeng, Tadayoshi Kohno, Franziska Roesner. Symposium on Usable Privacy and Security (_SOUPS_), Boston, August 2022. <br/>
 [[paper](/assets/soups22.pdf)]
