@@ -11,7 +11,7 @@ layout: default
 [[paper](/assets/sp23.pdf)]
 
 **Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships.** Miranda Wei, Eric Zeng, Tadayoshi Kohno, Franziska Roesner. Symposium on Usable Privacy and Security (_SOUPS_), Boston, August 2022. <br/>
-[[paper](/assets/soups22.pdf), [slides](/assets/soups22-slides.pdf)]
+[[paper](/assets/soups22.pdf), [slides](/assets/soups22-slides.pdf), [talk](https://www.youtube.com/watch?v=7WlMmG8q-6s)]
 
 **Styx++: Reliable Data Access and Availability Using a Hybrid Paxos and Chain Replication Protocol.** Ather Sharif, Emilia F. Gan, Miranda Wei. ACM SIGCHI Conference on Human Factors in Computing Systems, Late Breaking Work (_CHI LBW_), Apr. 2022. <br/>
 [[paper](/assets/chi22.pdf)]
