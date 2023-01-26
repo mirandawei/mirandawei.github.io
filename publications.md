@@ -7,12 +7,12 @@ layout: default
 
 ### Computer Science
 
-**“There’s so much responsibility on users right now:” Expert Advice for Staying Safer From Hate and Harassment.** Miranda Wei, Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Franziska Roesner, Kurt Thomas. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), Apr. 2023. </br>
+**“There’s so much responsibility on users right now:” Expert Advice for Staying Safer From Hate and Harassment.** Miranda Wei, Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Franziska Roesner, Kurt Thomas. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), Apr. 2023. <br/>
 
 **Skilled or Gullible? Investigating Gender Stereotypes Related to Computer Security and Privacy.** Miranda Wei, Pardis Emami-Naeini, Franziska Roesner, Tadayoshi Kohno. IEEE Symposium on Security and Privacy (_S&P_), San Francisco, May 2023. <br/>
 [[paper](/assets/sp23.pdf)]
 
-**Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships.** Miranda Wei, Eric Zeng, Tadayoshi Kohno, Franziska Roesner. Symposium on Usable Privacy and Security (_SOUPS_), Boston, August 2022. <br/>
+**Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships.** Miranda Wei, Eric Zeng, Tadayoshi Kohno, Franziska Roesner. Symposium on Usable Privacy and Security (_SOUPS_), Boston, Aug. 2022. <br/>
 [[paper](/assets/soups22.pdf), [slides](/assets/soups22-slides.pdf), [talk](https://www.youtube.com/watch?v=7WlMmG8q-6s)]
 
 **Styx++: Reliable Data Access and Availability Using a Hybrid Paxos and Chain Replication Protocol.** Ather Sharif, Emilia F. Gan, Miranda Wei. ACM SIGCHI Conference on Human Factors in Computing Systems, Late Breaking Work (_CHI LBW_), Apr. 2022. <br/>
