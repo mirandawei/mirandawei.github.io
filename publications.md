@@ -10,7 +10,7 @@ layout: default
 **A Two-Decade Retrospective Analysis of a University's Vulnerability to Attacks Exploiting Reused Passwords** Alexandra Nisenoff, Maximilian Golla, Miranda Wei, Juliette Hainline, Hayley Szymanek, Annika Braun, Annika Hildebrandt, Blair Christensen, David Langenberg, Blase Ur. USENIX Security Symposium, Aug. 2023.<br/>
 [paper (forthcoming)]
 
-**Skilled or Gullible? Investigating Gender Stereotypes Related to Computer Security and Privacy.** Miranda Wei, Pardis Emami-Naeini, Franziska Roesner, Tadayoshi Kohno. IEEE Symposium on Security and Privacy (_S&P_), San Francisco, May 2023. <br/>
+**Skilled or Gullible? Gender Stereotypes Related to Computer Security and Privacy.** Miranda Wei, Pardis Emami-Naeini, Franziska Roesner, Tadayoshi Kohno. IEEE Symposium on Security and Privacy (_S&P_), San Francisco, May 2023. <br/>
 [[paper](/assets/sp23.pdf)]
 
 **“There’s so much responsibility on users right now:” Expert Advice for Staying Safer From Hate and Harassment.** Miranda Wei, Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Franziska Roesner, Kurt Thomas. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), Apr. 2023. <br/>
