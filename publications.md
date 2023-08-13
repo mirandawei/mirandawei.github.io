@@ -8,7 +8,8 @@ layout: default
 ### Computer Science
 
 **A Two-Decade Retrospective Analysis of a University's Vulnerability to Attacks Exploiting Reused Passwords** Alexandra Nisenoff, Maximilian Golla, Miranda Wei, Juliette Hainline, Hayley Szymanek, Annika Braun, Annika Hildebrandt, Blair Christensen, David Langenberg, Blase Ur. USENIX Security Symposium, Aug. 2023.<br/>
-[paper (forthcoming)]
+[paper (/assets/usenix23.pdf)]
+:star: Distinguished Paper Award.
 
 **Skilled or Gullible? Gender Stereotypes Related to Computer Security and Privacy.** Miranda Wei, Pardis Emami-Naeini, Franziska Roesner, Tadayoshi Kohno. IEEE Symposium on Security and Privacy (_S&P_), San Francisco, May 2023. <br/>
 [[paper](/assets/sp23.pdf), [slides](/assets/sp23-slides.pdf)]
