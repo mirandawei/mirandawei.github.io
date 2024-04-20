@@ -7,9 +7,13 @@ layout: default
 
 ### Computer Science
 
-**Sharenting on TikTok: Exploring Parental Sharing Behaviors and the Discourse Around Children’s Online Privacy.** Sophie Stephenson, Christopher Nathaniel Page, Miranda Wei, Apu Kapadia, Franziska Roesner. To appear at ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), May 2024.
+**SoK (or SoLK?): On the Quantitative Study of Sociodemographic Factors and Computer Security Behaviors.** Miranda Wei, Jaron Mink, Yael Eiger, Tadayoshi Kohno, Elissa M. REdmiles, Franziska Roesner. USENIX Security Symposium, Aug. 2024.<br/>
 
-**It's Trying Too Hard To Look Real: Deepfake Moderation Mistakes and Identity-Based Bias.** Jaron Mink, Miranda Wei, Collins W. Munyendo, Kurt Hugenberg, Tadayoshi Kohno, Elissa M. Redmiles, Gang Wang. To appear at ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), May 2024.
+**Sharenting on TikTok: Exploring Parental Sharing Behaviors and the Discourse Around Children’s Online Privacy.** Sophie Stephenson, Christopher Nathaniel Page, Miranda Wei, Apu Kapadia, Franziska Roesner. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), May 2024.<br/>
+[[paper](/assets/chi24-sharenting.pdf)]
+
+**It's Trying Too Hard To Look Real: Deepfake Moderation Mistakes and Identity-Based Bias.** Jaron Mink, Miranda Wei, Collins W. Munyendo, Kurt Hugenberg, Tadayoshi Kohno, Elissa M. Redmiles, Gang Wang. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), May 2024.<br/>
+[[paper](/assets/chi24-deepfake.pdf)]
 
 **A Two-Decade Retrospective Analysis of a University's Vulnerability to Attacks Exploiting Reused Passwords.** Alexandra Nisenoff, Maximilian Golla, Miranda Wei, Juliette Hainline, Hayley Szymanek, Annika Braun, Annika Hildebrandt, Blair Christensen, David Langenberg, Blase Ur. USENIX Security Symposium, Aug. 2023.<br/>
 [[paper](/assets/usenix23.pdf)]<br/>
