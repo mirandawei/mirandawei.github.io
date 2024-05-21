@@ -48,7 +48,7 @@ layout: default
 **Oh, the Places You've Been! User Reactions to Longitudinal Transparency About Third-Party Web Tracking and Inferencing.** Ben Weinshel, Miranda Wei, Mainack Mondal, Euirim Choi, Shawn Shan, Claire Dolin, Michelle L. Mazurek, Blase Ur. ACM Computer and Communications Security (_CCS_), Nov. 2019. <br/>
 [[paper](/assets/ccs19.pdf), [slides](/assets/ccs19-slides.pdf)]
 
-**"What was that site doing with my Facebook password?” Designing Password-Reuse Notifications.** Maximilian Golla, Miranda Wei, Juliette Hainline, Lydia Filipe, Markus Dürmuth, Blase Ur. ACM Computer and Communications Security (_CCS_), Oct. 2018. <br/>
+**"What was that site doing with my Facebook password?” Designing Password-Reuse Notifications.** Maximilian Golla, Miranda Wei, Juliette Hainline, Lydia Filipe, Markus Dürmuth, Elissa Redmiles, Blase Ur. ACM Computer and Communications Security (_CCS_), Oct. 2018. <br/>
 [[paper](/assets/ccs18.pdf), [slides](/assets/ccs18-slides.pdf)]
 
 **Exploring User Mental Models of End-to-End Encrypted Communication Tools.** Ruba Abu-Salma, Elissa Redmiles, Blase Ur, Miranda Wei. USENIX Workshop on Free and Open Communications on the Internet (_FOCI_), Aug. 2018. <br/>
