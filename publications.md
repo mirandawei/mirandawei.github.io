@@ -7,6 +7,8 @@ layout: default
 
 ### Computer Science
 
+**Understanding Help-Seeking and Help-Giving on Social Media for Image-Based Sexual Abuse.** Miranda Wei, Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Tara Matthews, Sarah Meiklejohn, Franziska Roesner, Renee Shelby, Kurt Thomas, Rebecca Umbach. USENIX Security Symposium, Aug. 2024.<br/>
+
 **SoK (or SoLK?): On the Quantitative Study of Sociodemographic Factors and Computer Security Behaviors.** Miranda Wei, Jaron Mink, Yael Eiger, Tadayoshi Kohno, Elissa M. Redmiles, Franziska Roesner. USENIX Security Symposium, Aug. 2024.<br/>
 
 **Sharenting on TikTok: Exploring Parental Sharing Behaviors and the Discourse Around Children’s Online Privacy.** Sophie Stephenson, Christopher Nathaniel Page, Miranda Wei, Apu Kapadia, Franziska Roesner. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), May 2024.<br/>
