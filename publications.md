@@ -8,8 +8,13 @@ layout: default
 ### Computer Science
 
 **Understanding Help-Seeking and Help-Giving on Social Media for Image-Based Sexual Abuse.** Miranda Wei, Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Tara Matthews, Sarah Meiklejohn, Franziska Roesner, Renee Shelby, Kurt Thomas, Rebecca Umbach. USENIX Security Symposium, Aug. 2024.<br/>
+[[paper](https://arxiv.org/abs/2406.12161)]
 
 **SoK (or SoLK?): On the Quantitative Study of Sociodemographic Factors and Computer Security Behaviors.** Miranda Wei, Jaron Mink, Yael Eiger, Tadayoshi Kohno, Elissa M. Redmiles, Franziska Roesner. USENIX Security Symposium, Aug. 2024.<br/>
+[[paper](https://arxiv.org/abs/2404.10187)]
+
+**“Violation of my body:” Perceptions of AI-generated non-consensual (intimate) imagery.** Grace Brigham, Miranda Wei, Tadayoshi Kohno, Elissa M. Redmiles. Symposium on Usable Privacy and Security (_SOUPS_), Aug. 2024.<br/>
+[[paper](https://arxiv.org/abs/2406.05520)]
 
 **Sharenting on TikTok: Exploring Parental Sharing Behaviors and the Discourse Around Children’s Online Privacy.** Sophie Stephenson, Christopher Nathaniel Page, Miranda Wei, Apu Kapadia, Franziska Roesner. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), May 2024.<br/>
 [[paper](/assets/chi24-sharenting.pdf)]
@@ -21,13 +26,13 @@ layout: default
 [[paper](/assets/usenix23.pdf)]<br/>
 :star: Distinguished Paper Award.
 
-**Skilled or Gullible? Gender Stereotypes Related to Computer Security and Privacy.** Miranda Wei, Pardis Emami-Naeini, Franziska Roesner, Tadayoshi Kohno. IEEE Symposium on Security and Privacy (_S&P_), San Francisco, May 2023. <br/>
+**Skilled or Gullible? Gender Stereotypes Related to Computer Security and Privacy.** Miranda Wei, Pardis Emami-Naeini, Franziska Roesner, Tadayoshi Kohno. IEEE Symposium on Security and Privacy (_S&P_), May 2023. <br/>
 [[paper](/assets/sp23.pdf), [slides](/assets/sp23-slides.pdf)]
 
 **“There’s so much responsibility on users right now:” Expert Advice for Staying Safer From Hate and Harassment.** Miranda Wei, Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Franziska Roesner, Kurt Thomas. ACM SIGCHI Conference on Human Factors in Computing Systems (_CHI_), Apr. 2023. <br/>
 [[paper](/assets/chi23.pdf), [supplemental materials](/assets/chi23-supplemental.pdf), [talk](https://www.youtube.com/watch?v=EluNs24Zs9o)]
 
-**Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships.** Miranda Wei, Eric Zeng, Tadayoshi Kohno, Franziska Roesner. Symposium on Usable Privacy and Security (_SOUPS_), Boston, Aug. 2022. <br/>
+**Anti-Privacy and Anti-Security Advice on TikTok: Case Studies of Technology-Enabled Surveillance and Control in Intimate Partner and Parent-Child Relationships.** Miranda Wei, Eric Zeng, Tadayoshi Kohno, Franziska Roesner. Symposium on Usable Privacy and Security (_SOUPS_), Aug. 2022. <br/>
 [[paper](/assets/soups22.pdf), [slides](/assets/soups22-slides.pdf), [talk](https://www.youtube.com/watch?v=7WlMmG8q-6s)]
 
 **Styx++: Reliable Data Access and Availability Using a Hybrid Paxos and Chain Replication Protocol.** Ather Sharif, Emilia F. Gan, Miranda Wei. ACM SIGCHI Conference on Human Factors in Computing Systems, Late Breaking Work (_CHI LBW_), Apr. 2022. <br/>
@@ -37,7 +42,7 @@ layout: default
 [[paper](/assets/imc21.pdf), [project page](https://badads.cs.washington.edu/political.html), [talk](https://www.youtube.com/watch?v=6IwV1F9E_dw)] <br/>
 :star: Runner-Up for Best Paper Award.
 
-**On the Limited Impact of Visualizing Encryption: Perceptions of E2E Messaging Security** Christian Stransky, Dominik Wermke, Johanna Schrader, Nicolas Huaman, Yasemin Acar, Anna Lena Fehlhaber, Miranda Wei, Blase Ur, Sascha Fahl. Symposium on Usable Privacy and Security (_SOUPS_), Online, August 2021. <br/>
+**On the Limited Impact of Visualizing Encryption: Perceptions of E2E Messaging Security** Christian Stransky, Dominik Wermke, Johanna Schrader, Nicolas Huaman, Yasemin Acar, Anna Lena Fehlhaber, Miranda Wei, Blase Ur, Sascha Fahl. Symposium on Usable Privacy and Security (_SOUPS_), August 2021. <br/>
 [[paper](https://www.usenix.org/system/files/soups2021-stransky.pdf)]
 
 **What Twitter Knows: Characterizing Ad Targeting Practices, User Perceptions, and Ad Explanations Through Users' Own Twitter Data.** Miranda Wei, Madison Stamos, Sophie Veys, Nathan Reitinger, Justin Goodman, Margot Herman, Dorota Filipczuk, Ben Weinshel, Michelle L. Mazurek, Blase Ur. USENIX Security Symposium, Aug. 2020. <br/>
