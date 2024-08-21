@@ -8,10 +8,10 @@ layout: default
 ### Computer Science
 
 **Understanding Help-Seeking and Help-Giving on Social Media for Image-Based Sexual Abuse.** Miranda Wei, Sunny Consolvo, Patrick Gage Kelley, Tadayoshi Kohno, Tara Matthews, Sarah Meiklejohn, Franziska Roesner, Renee Shelby, Kurt Thomas, Rebecca Umbach. USENIX Security Symposium, Aug. 2024.<br/>
-[[paper](https://arxiv.org/abs/2406.12161)]
+[[paper](https://arxiv.org/abs/2406.12161), [slides](/assets/usenix24-ibsa-slides.pdf)]
 
 **SoK (or SoLK?): On the Quantitative Study of Sociodemographic Factors and Computer Security Behaviors.** Miranda Wei, Jaron Mink, Yael Eiger, Tadayoshi Kohno, Elissa M. Redmiles, Franziska Roesner. USENIX Security Symposium, Aug. 2024.<br/>
-[[paper](https://arxiv.org/abs/2404.10187)]
+[[paper](https://arxiv.org/abs/2404.10187), [slides](/assets/usenix24-solk-slides.pdf)]
 
 **“Violation of my body:” Perceptions of AI-generated non-consensual (intimate) imagery.** Grace Brigham, Miranda Wei, Tadayoshi Kohno, Elissa M. Redmiles. Symposium on Usable Privacy and Security (_SOUPS_), Aug. 2024.<br/>
 [[paper](https://arxiv.org/abs/2406.05520)]
