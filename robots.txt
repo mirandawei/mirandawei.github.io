@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://mirandawei.com/sitemap.xml
