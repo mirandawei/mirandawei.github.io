@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD candidate at the University of Washington
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic2.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I’m a PhD candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where I am co-advised by [Franzi Roesner](https://www.franziroesner.com/) and [Yoshi Kohno](https://homes.cs.washington.edu/~yoshi/). In my research, I am interested in investigating security and privacy from the perspective of contemporary sociocultural lenses (e.g., gender, interpersonal relationships) and new technologies (e.g., TikTok). Generally, I love asking people about what they love, what they hate, and anything else they feel strongly about.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Prior to starting my PhD, I worked with [Blase Ur](https://www.blaseur.com/) at the University of Chicago. Some of my research from those years investigated privacy perceptions of online advertising as well as password and security notification usability.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I was born and raised in Chicago (unless you’re from the city, in which case I was born and raised in the suburbs). I studied political science and computer science during my undergraduate degree, and graduated in June 2017.
+
+I now live in Seattle where I spend lots of time hiding from the rain with my two cats.
