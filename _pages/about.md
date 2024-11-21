@@ -28,15 +28,14 @@ My recent work has focused on addressing online abuse as a new frontier of S&P c
 3. developing conceptual tools to bridge S&P and HCI towards societally informed S&P research, such as by centering [gender](https://mirandawei.com/assets/pdf/sp23.pdf) and other [sociodemographic factors](https://www.usenix.org/system/files/sec24summer-prepub-341-wei-miranda.pdf).
 
 I am co-advised by Professors [Franzi Roesner](https://www.franziroesner.com/) and [Yoshi Kohno](https://homes.cs.washington.edu/~yoshi/). I have also interned with Google's Security, Privacy, and Abuse Prevention teams, where I was mentored by Drs. [Kurt Thomas](https://research.google/people/kurtthomas/?&type=google) and [Sunny Consolvo](https://research.google/people/sunnyconsolvo/).
+Before starting my PhD, I worked with Professor [Blase Ur](https://www.blaseur.com/) in the [Security, Usability, & Privacy Education & Research Group](https://super.cs.uchicago.edu/index.html) (SUPERgroup) at the University of Chicago, where I investigated privacy perceptions of online advertising as well as password and security notification usability.
 
-Before starting my PhD, I worked with Professor [Blase Ur](https://www.blaseur.com/) in the [Security, Usability, & Privacy Education & Research Grou](https://super.cs.uchicago.edu/index.html) (SUPERgroup) at the University of Chicago. Some of my research from those years investigated privacy perceptions of online advertising as well as password and security notification usability.
-
-Previously, I recieved a B.A. in Political Science and Computer Science from the University of Chicago. I was a researcher with the [Chicago Project on Security & Threats](https://cpost.uchicago.edu/)(CPOST), where I contributed to the first worldwide database on suicide attacks and led research teams monitoring and analyzing militant group propoganda. My bachelor's thesis on the Islamic State's audio propaganda received departmental honors. As an undergraduate, I also spent a year directly enrolled at the London School of Economics (LSE), where I enjoyed courses in international relations and international law.
+I recieved a B.A. in Political Science and Computer Science from the University of Chicago. I was a researcher with the [Chicago Project on Security & Threats](https://cpost.uchicago.edu/)(CPOST), where I contributed to the first worldwide database on suicide attacks and led research teams monitoring and analyzing militant group propoganda. My bachelor's thesis on the Islamic State's audio propaganda received departmental honors. As an undergraduate, I also spent a year directly enrolled at the London School of Economics (LSE), where I enjoyed courses in international relations and international law.
 
 ### Selected Awards
 
-John Karat Usable Privacy and Security Student Research Award (2024)
-Google PhD Fellowship (2023)
-USENIX Security Distinguished Paper (2023)
-NSF Graduate Research Fellowship Program (GRFP) Honorable Mention (2021)
-ACM Human Factors in Computing Systems (CHI) Best Paper Honorable Mention (2020)
+* John Karat Usable Privacy and Security Student Research Award (2024)
+* Google PhD Fellowship (2023)
+* USENIX Security Distinguished Paper (2023)
+* NSF Graduate Research Fellowship Program (GRFP) Honorable Mention (2021)
+* ACM Human Factors in Computing Systems (CHI) Best Paper Honorable Mention (2020)
