@@ -23,7 +23,7 @@ My research interests lie at the intersections of security and privacy (S&P), hu
 I publish in leading security, privacy, and HCI venues, including USENIX Security, IEEE S&P, CHI, SOUPS, IMC, and CCS.
 
 My recent work has focused on addressing online abuse as a new frontier of S&P challenges in three key directions: 
-1. characterizing emerging digital safety threats, such as synthetic nonconsensual explicit imagery ("deepfake nudes") and [interpersonal surveillance](https://mirandawei.com/assets/pdf/soups22.pdf); 
+1. characterizing emerging digital safety threats, such as [synthetic nonconsensual explicit imagery](https://mirandawei.com/assets/pdf/chi25.pdf) ("deepfake nudes") and [interpersonal surveillance](https://mirandawei.com/assets/pdf/soups22.pdf); 
 2. evaluating existing support for online abuse, such as for [image-based sexual abuse](https://www.usenix.org/system/files/usenixsecurity24-wei-miranda-understanding.pdf) and [online hate and harassment](https://mirandawei.com/assets/pdf/chi23.pdf); and
 3. developing conceptual tools to bridge S&P and HCI towards societally informed S&P research, such as by centering [gender](https://mirandawei.com/assets/pdf/sp23.pdf) and other [sociodemographic factors](https://www.usenix.org/system/files/sec24summer-prepub-341-wei-miranda.pdf).
 
@@ -35,6 +35,7 @@ As an undergraduate, I also spent a year directly enrolled at the London School 
 
 ### Selected Awards
 
+* ACM Human Factors in Computing Systems (CHI) Honorable Mention (Top 5%) (2025)
 * John Karat Usable Privacy and Security Student Research Award (2024)
 * Google PhD Fellowship (2023)
 * USENIX Security Distinguished Paper (2023)
