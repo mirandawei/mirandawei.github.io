@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**I am on the job market for research-oriented roles in computer science, information science, or related fields, starting 2025!**
+**In Fall 2026, I will start as an Assistant Professor of Computer and Communication Sciences at EPFL (École Polytechnique Fédérale de Lausanne) in Lausanne, Switzerland!**
 
 I’m a PhD candidate at the Paul G. Allen School of Computer Science & Engineering at the University of Washington in the [Security & Privacy Research Lab](https://seclab.cs.washington.edu/) and affiliated with the [Tech Policy Lab](https://techpolicylab.uw.edu/). 
 Broadly, I study the role of computing and information technologies in perpetuating individual and societal harm, with particular attention to contemporary sociocultural lenses and emerging technologies.
