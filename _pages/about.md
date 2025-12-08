@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm an incoming postdoctoral researcher at the Center for Information Technology Policy (CITP) at Princeton University, where I'll be working with Jonathan Mayer. In fall 2026, I will start as an Assistant Professor of Computer and Communication Sciences at EPFL (École Polytechnique Fédérale de Lausanne) in Lausanne, Switzerland.
+I'm a postdoctoral fellow at the Center for Information Technology Policy (CITP) at Princeton University, working with Jonathan Mayer. In fall 2026, I will start as an Assistant Professor of Computer and Communication Sciences at EPFL (École Polytechnique Fédérale de Lausanne) in Lausanne, Switzerland.
 
 ***Interested in doing a PhD with me?***
 I'm hiring for PhD positions to start at EPFL in fall 2026! 
