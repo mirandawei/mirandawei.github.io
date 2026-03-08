@@ -15,12 +15,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I'm a postdoctoral fellow at the Center for Information Technology Policy (CITP) at Princeton University, working with Jonathan Mayer. In fall 2026, I will start as an Assistant Professor of Computer and Communication Sciences at EPFL (École Polytechnique Fédérale de Lausanne) in Lausanne, Switzerland.
+I'm a postdoctoral fellow at the [Center for Information Technology Policy (CITP)](https://citp.princeton.edu/) at Princeton University, working with Jonathan Mayer. 
+When I'm not physically at Princeton, I am also affiliated with the NYU Tandon School of Engineering as an adopted postdoc (unofficial title).
+In fall 2026, I will start as an Assistant Professor of [Computer and Communication Science](https://www.epfl.ch/schools/ic/) at EPFL (École Polytechnique Fédérale de Lausanne) in Lausanne, Switzerland.
 
-***Interested in doing a PhD with me?***
+<!-- ***Interested in doing a PhD with me?***
 I'm hiring for PhD positions to start at EPFL in fall 2026! 
 You should apply through EPFL's [EDIC application](https://www.epfl.ch/education/phd/edic-computer-and-communication-sciences/edic-computer-and-communication-sciences/edic-how-to-apply/) - the deadline is December 15, 2025. 
-I will review all applications that mention me in the statement of purpose.
+I will review all applications that mention me in the statement of purpose. -->
 
 I earned my PhD from the Paul G. Allen School of Computer Science & Engineering at the University of Washington in the [Security & Privacy Research Lab](https://seclab.cs.washington.edu/), while affiliated with the [Tech Policy Lab](https://techpolicylab.uw.edu/). 
 Broadly, I study the role of computing and information technologies in perpetuating individual and societal harm, with particular attention to contemporary sociocultural lenses and emerging technologies.
@@ -40,6 +42,7 @@ As an undergraduate, I also spent a year directly enrolled at the London School 
 
 ### Selected Awards
 
+* [William Chan Memorial Dissertation Award](https://www.cs.washington.edu/people/phd-student-recognition/) (2025)
 * ACM Human Factors in Computing Systems (CHI) Honorable Mention (Top 5%) (2025)
 * John Karat Usable Privacy and Security Student Research Award (2024)
 * Google PhD Fellowship (2023)
