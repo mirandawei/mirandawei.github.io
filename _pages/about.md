@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Postdoctoral researcher at Princeton University
+subtitle: Assistant Professor at EPFL
 
 profile:
   align: right
