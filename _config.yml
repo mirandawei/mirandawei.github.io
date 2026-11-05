@@ -6,8 +6,8 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Miranda
 middle_name:
 last_name: Wei
-email: weimf@cs.washington.edu
-description: PhD Candidate at University of Washington
+email: miranda.wei@epfl.ch
+description: Assistant Professor at EPFL
 footer_text:
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
